@@ -1,5 +1,10 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Carlo</h1>
-<h3 align="center">A passionate developer from Netherlands</h3>
+<h3 align="center">A passionate software engineering student from Netherlands</h3>
+<img align="right" alt"Coding" width"400" src="https://lesjoiesducode.fr/content/002/2aJ7L2L.gif"> 
+- 📫 How to reach me **carlodallastella@yahoo.it**
+
+- ⚡ Fun fact **I am an actual chef! 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilCodeChef&show_icons=true&locale=en&layout=compact" alt="ilCodeChef" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilcodechef&show_icons=true&locale=en" alt="ilcodechef" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilCodeChef&show_icons=true&locale=en" alt="ilCodeChef" /></p>
