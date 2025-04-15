@@ -1,5 +1,10 @@
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExampiaHB3dXhxdG42MDJwODhjNDA5cTVob2dxbnd1c3dmZWdqbmFsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l10yGFKGnvSgkwrdAE/giphy.gif" alt="Jim Carrey Typing Fast" width="100%" height="300" />
+
+
 <h1 align="center">Hi 👋, I'm Carlo</h1>
 <h3 align="center">A passionate software engineering student from Netherlands</h3>
+
+
 📫 How to reach me **carlodallastella@yahoo.it**
 
 ⚡ Fun fact **I am an actual chef! 😁**
