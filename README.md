@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://cdn.prod.website-files.com/5e6e40d40f8bc39164b5c4e9/64e4bb21571af3c19c26b3a2_github.webp)]
 <h1 align="center">Hi 👋, I'm Carlo</h1>
 <h3 align="center">A passionate software engineering student from Netherlands</h3>
 <img align="right" alt"Coding" width"400" src="https://lesjoiesducode.fr/content/002/2aJ7L2L.gif"> 
