@@ -1,8 +1,16 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExampiaHB3dXhxdG42MDJwODhjNDA5cTVob2dxbnd1c3dmZWdqbmFsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l10yGFKGnvSgkwrdAE/giphy.gif" alt="Jim Carrey Typing Fast" width="100%" height="300" />
 
 
-<h1 align="center">Hi 👋, I'm Carlo</h1>
-<h3 align="center">A passionate software engineering student based in the Netherlands</h3>
+<h1 align="center">Hey 👋, I'm Carlo</h1>
+<h3 align="left">
+  Currently cooking some code. <br>
+  Tidy setup, clean tools, and a solid frenC C++king base. <br>
+  Code like it’s a recipe: use your tools properly, season with experience, and serve your knowledge through your products. <br>
+  And don’t forget a sprinkle of CSS for that stylish plating. <br><br>
+  
+  I am passionate software engineering student based in the Netherlands. <br>
+  You can check out my work here.
+</h3>
 
 
 📫 How to reach me **carlodallastella@yahoo.it**
